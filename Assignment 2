@@ -1,0 +1,8 @@
+km=int(input("enter the km to convert"))
+cm=(km*100000)
+print("cm",cm)
+
+OUTPUT:
+Output
+Enter the km to convert 5
+Cm 500000
